@@ -79,8 +79,8 @@ def main():
         print("\nFull Transcription:")
         print(full_text)
 
-        print("\nSummary (first 100 words):")
-        print(summary)
+        # print("\nSummary (first 100 words):")
+        # print(summary)
 
     except Exception as e:
         print(f"An error occurred: {str(e)}")
